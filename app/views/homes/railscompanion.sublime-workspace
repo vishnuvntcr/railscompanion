@@ -1,0 +1,925 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"care_client"
+			],
+			[
+				"fa",
+				"Faker"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"be",
+				"be_valid"
+			],
+			[
+				"shoul",
+				"should_not"
+			],
+			[
+				"po",
+				"postgres"
+			],
+			[
+				"if",
+				"iframe	Tag"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"cae",
+				"care_giver_company"
+			],
+			[
+				"ti",
+				"time_zone"
+			],
+			[
+				"al",
+				"alerts_was"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/qbuser/projects/rails_projects/rails_companion/config/database.yml",
+			"settings":
+			{
+				"buffer_size": 3009,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/qbuser/projects/rails_projects/rails_companion/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1646,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html.erb",
+			"settings":
+			{
+				"buffer_size": 13145,
+				"line_ending": "Unix",
+				"name": "index.html.erb"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinte",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"bea",
+				"BeautifyRuby"
+			],
+			[
+				"pakage",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/qbuser/projects/rails_projects/farcare/app/controllers/calendar/care_giver_controller.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/models/care_giver_company.rb",
+		"/home/qbuser/projects/rails_projects/farcare/spec/factories/care_giver_company.rb",
+		"/home/qbuser/projects/rails_projects/farcare/spec/models/care_giver_company_spec.rb",
+		"/home/qbuser/projects/rails_projects/farcare/spec/factories/care_client.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/javascripts/fcg/fcg_view_careclients.js",
+		"/home/qbuser/projects/rails_projects/farcare/app/policies/care_client_policy.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/models/care_client.rb",
+		"/home/qbuser/projects/rails_projects/farcare/config/database.yml",
+		"/home/qbuser/projects/rails_projects/farcare/app/controllers/pcga/home_controller.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/helpers/pcg/home_helper.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/views/pcga/home/report.pdf.erb",
+		"/home/qbuser/projects/rails_projects/farcare/app/views/shared/_pcga_top_navigation.html.erb",
+		"/home/qbuser/projects/rails_projects/farcare/app/controllers/pcg/home_controller.rb",
+		"/home/qbuser/projects/rails_projects/farcare/config/environments/production.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/views/pcga/home/report.html.erb",
+		"/home/qbuser/projects/rails_projects/farcare/app/reports/report_pdf.rb",
+		"/home/qbuser/projects/rails_projects/farcare/README",
+		"/home/qbuser/projects/rails_projects/farcare/config/routes.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/controllers/fcg/home_controller.rb",
+		"/home/qbuser/projects/rails_projects/farcare/spec/models/care_client_spec.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/javascripts/flashcanvas.js",
+		"/home/qbuser/projects/rails_projects/farcare/tmp/cache/assets/development/sprockets/fa8db1e0801b980f047d3da3a40ba6f7",
+		"/home/qbuser/projects/rails_projects/farcare/spec/factories/package_type.rb",
+		"/home/qbuser/projects/rails_projects/farcare/config/initializers/airbrake.rb",
+		"/home/qbuser/projects/rails_projects/farcare/spec/models/care_giver_spec.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/models/care_giver.rb",
+		"/home/qbuser/projects/rails_projects/farcare/spec/models/check_inout_alert_spec.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/controllers/application_controller.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/controllers/care_giver_companies_controller.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/stylesheets/mobile_style.css.scss",
+		"/home/qbuser/projects/rails_projects/farcare/app/views/mobile/home/view_care_client_services.html.erb",
+		"/home/qbuser/projects/rails_projects/farcare/test/controllers/admin/home_controller_test.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/controllers/admin/home_controller.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/helpers/admin_settings_helper.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/models/admin_setting.rb",
+		"/home/qbuser/projects/rails_projects/farcare/db/migrate/20140213054149_add_devise_to_users.rb",
+		"/home/qbuser/projects/rails_projects/farcare/tmp/cache/assets/development/sass/e94f1ba37f641ba5701fa3cd42336f309bf35b5d/styles.css.scssc",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/stylesheets/styles.css.scss",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/stylesheets/mobile_selectbox.css.scss",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/stylesheets/mobile_nav.css.scss",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/stylesheets/mobile_checkbox.css.scss",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/stylesheets/mobile_accordian.css.scss",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/stylesheets/mobile_application.css",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/stylesheets/mobile_checkbox-styles.css.scss",
+		"/home/qbuser/projects/rails_projects/farcare/app/assets/javascripts/mobile_custom.js",
+		"/home/qbuser/projects/rails_projects/farcare/db/seeds.rb",
+		"/home/qbuser/projects/rails_projects/farcare/app/views/pcg/home/view_my_services.html.erb",
+		"/home/qbuser/hacknight/rspec/README.rdoc",
+		"/home/qbuser/hacknight/rspec/db/migrate/20140627191226_add_status_to_event.rb",
+		"/home/qbuser/hacknight/rspec/app/views/home/about_us.html.erb",
+		"/home/qbuser/hacknight/rspec/public/support.html",
+		"/home/qbuser/hacknight/rspec/db/seeds.rb",
+		"/home/qbuser/projects/rails_projects/onair/app/helpers/application_helper.rb",
+		"/home/qbuser/projects/rails_projects/onair/app/controllers/homes_controller.rb",
+		"/home/qbuser/projects/html_projects/hangout",
+		"/home/qbuser/hacknight/rspec/config/initializers/inflections.rb",
+		"/home/qbuser/hacknight/rspec/app/controllers/application_controller.rb",
+		"/home/qbuser/projects/farcare/app/models/care_giver.rb",
+		"/home/qbuser/projects/farcare/app/policies/care_client_policy.rb",
+		"/home/qbuser/projects/farcare/app/policies/care_giver_company_policy.rb",
+		"/home/qbuser/projects/farcare/app/controllers/calendar/care_giver_controller.rb",
+		"/home/qbuser/projects/farcare/spec/controllers/homes_controller_spec.rb",
+		"/home/qbuser/projects/farcare/app/models/care_giver_company.rb",
+		"/home/qbuser/projects/farcare/app/views/homes/index.html.erb",
+		"/home/qbuser/projects/farcare/db/seeds.rb",
+		"/home/qbuser/projects/farcare/app/assets/stylesheets/styles.css.scss",
+		"/home/qbuser/projects/farcare/app/views/admin/home/settings.html.erb",
+		"/home/qbuser/projects/farcare/app/assets/javascripts/homes.js",
+		"/home/qbuser/projects/farcare/app/controllers/home_controller.rb",
+		"/home/qbuser/projects/farcare/config/initializers/honeybadger.rb",
+		"/home/qbuser/projects/farcare/config/database.yml",
+		"/home/qbuser/projects/farcare/app/assets/javascripts/admin/home.js",
+		"/home/qbuser/projects/BBC/Gemfile",
+		"/home/qbuser/projects/farcare/app/views/layouts/landing_page.html.erb",
+		"/home/qbuser/projects/farcare/app/assets/stylesheets/checkbox-styles.css.scss",
+		"/home/qbuser/projects/farcare/app/views/layouts/company_landing_page.html.erb",
+		"/home/qbuser/projects/farcare/app/views/layouts/application_mobile.html.erb",
+		"/home/qbuser/projects/farcare/app/views/layouts/application.html.erb",
+		"/home/qbuser/projects/farcare/app/views/layouts/device pages.html.erb",
+		"/home/qbuser/projects/farcare/app/views/layouts/device_pages.html.erb",
+		"/home/qbuser/projects/farcare/config/deploy.rb",
+		"/home/qbuser/projects/farcare/app/helpers/admin_settings_helper.rb",
+		"/home/qbuser/projects/farcare/app/views/mobile/home/settings_change_password.html.erb",
+		"/home/qbuser/projects/farcare/app/views/pcga/home/settings_check_in_out_alerts.html.erb",
+		"/home/qbuser/projects/farcare/config/environments/production.rb",
+		"/home/qbuser/projects/farcare/db/migrate/20140224133337_add_confirmable_to_devise.rb",
+		"/home/qbuser/projects/farcare/app/controllers/care_giver_companies_controller.rb",
+		"/home/qbuser/projects/farcare/app/models/company_type.rb",
+		"/home/qbuser/projects/farcare/db/migrate/20140221091256_create_organisation_types.rb",
+		"/home/qbuser/projects/farcare/app/views/auto_assign_summary_mailer/send_summary.html.erb",
+		"/home/qbuser/projects/farcare/app/views/alerts_mailer/location_missing.html.erb",
+		"/home/qbuser/projects/farcare/app/controllers/application_controller.rb",
+		"/home/qbuser/projects/farcare/app/helpers/application_helper.rb",
+		"/home/qbuser/projects/farcare/app/views/shared/_application_headers.html.erb",
+		"/home/qbuser/Desktop/template/js/respond.min.js",
+		"/home/qbuser/hacknight/rspec/config/application.rb",
+		"/home/qbuser/hacknight/rspec/app/views/home/index.html.erb",
+		"/home/qbuser/hacknight/rspec/config/environments/production.rb",
+		"/home/qbuser/Desktop/template/pricing.html",
+		"/home/qbuser/Desktop/template/portfolio.html",
+		"/home/qbuser/hacknight/rspec/app/views/home/profile.html.erb",
+		"/home/qbuser/hacknight/rspec/app/views/home/login.html.erb",
+		"/home/qbuser/hacknight/rspec/app/assets/javascripts/bootstrap.min.js",
+		"/home/qbuser/hacknight/rspec/app/assets/stylesheets/font-awesome.min.css",
+		"/home/qbuser/hacknight/rspec/app/assets/stylesheets/bootstrap.min.css",
+		"/home/qbuser/hacknight/rspec/app/assets/javascripts/jquery.js",
+		"/home/qbuser/hacknight/rspec/config/routes.rb",
+		"/home/qbuser/hacknight/rspec/app/controllers/home_controller.rb",
+		"/home/qbuser/hacknight/rspec/app/assets/javascripts/respond.min.js",
+		"/home/qbuser/hacknight/rspec/app/views/layouts/user_layouts.html.erb",
+		"/home/qbuser/Desktop/template/index.html",
+		"/home/qbuser/hacknight/rspec/Rakefile",
+		"/home/qbuser/hacknight/rspec/config/database.yml",
+		"/home/qbuser/hacknight/rspec/app/views/layouts/application.html.erb",
+		"/home/qbuser/hacknight/rspec/lib/assets/.keep",
+		"/home/qbuser/Desktop/template/about-us.html",
+		"/home/qbuser/Desktop/template/js/html5shiv.js",
+		"/home/qbuser/projects/farcare/app/assets/stylesheets/mobile_selectbox.css.scss",
+		"/home/qbuser/projects/farcare/app/assets/javascripts/mobile_application.js",
+		"/home/qbuser/projects/farcare/app/controllers/mobile/home_controller.rb",
+		"/home/qbuser/projects/farcare/app/assets/stylesheets/mobile_checkbox-styles.css.scss",
+		"/home/qbuser/projects/farcare/config/initializers/mime_types.rb",
+		"/home/qbuser/projects/farcare/app/views/shared/_services.html.erb",
+		"/home/qbuser/projects/farcare/app/views/pcg/home/view_my_services.html.erb",
+		"/home/qbuser/projects/farcare/app/helpers/pcg/home_helper.rb",
+		"/home/qbuser/projects/farcare/app/views/devise/passwords/edit.html.erb",
+		"/home/qbuser/projects/farcare/db/migrate/20140604051330_add_end_date_to_vacation_manage.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/qbuser/hacknight/rspec",
+			"/home/qbuser/projects/farcare/app",
+			"/home/qbuser/hacknight/rspec/app/assets",
+			"/home/qbuser/hacknight/rspec",
+			"/home/qbuser/Desktop/template",
+			"/home/qbuser/hacknight/rspec",
+			"/home/qbuser/projects/farcare/app/views",
+			"/home/qbuser/projects/farcare/app",
+			"/home/qbuser/projects/farcare",
+			"/home/qbuser/projects/farcare/db"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"school_year_graduated",
+			"be_valid",
+			"  \n",
+			"signatu",
+			"signa",
+			"signinCallback",
+			"secret",
+			"protected",
+			"token",
+			"start",
+			"setValue",
+			"setTimeout",
+			"saveSettings",
+			"bindin",
+			"bindinh",
+			"#footer a",
+			"footer a",
+			"footer",
+			"content",
+			"../fonts/",
+			"/fonts",
+			"fonts",
+			"/fonts/",
+			"start",
+			"profi",
+			"logo",
+			"angle",
+			"icon-angle-left",
+			"signature",
+			"sign",
+			"check-in",
+			"one(",
+			"auto ass",
+			"def list_services",
+			"authorize",
+			"logo",
+			"alerts_was",
+			"favicon",
+			"users/si",
+			"hstore"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/assets/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/qbuser/projects/rails_projects/rails_companion/config/database.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								563,
+								563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/qbuser/projects/rails_projects/rails_companion/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13145,
+								13145
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html.erb",
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5059.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "railscompanion.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"daa",
+				"config/database.yml"
+			],
+			[
+				"caregivercom",
+				"app/models/care_giver_company.rb"
+			],
+			[
+				"spec/models/care_giver_company_spec.rb",
+				"spec/models/care_giver_company_spec.rb"
+			],
+			[
+				"care",
+				"app/models/care_client.rb"
+			],
+			[
+				"careclientsp",
+				"spec/models/care_client_spec.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"app/helpers/pcg/home_helper.rb",
+				"app/helpers/pcg/home_helper.rb"
+			],
+			[
+				"pcgahome",
+				"app/controllers/pcga/home_controller.rb"
+			],
+			[
+				"report",
+				"app/views/pcga/home/report.pdf.erb"
+			],
+			[
+				"fcg/",
+				"app/controllers/fcg/home_controller.rb"
+			],
+			[
+				"spec/models/care_giver_spec.rb",
+				"spec/models/care_giver_spec.rb"
+			],
+			[
+				"caregiver.rb",
+				"app/models/care_giver.rb"
+			],
+			[
+				"caregivercomna",
+				"app/models/care_giver_company.rb"
+			],
+			[
+				"adminhome",
+				"app/controllers/admin/home_controller.rb"
+			],
+			[
+				"test/controllers/admin/home_controller_test.rb",
+				"test/controllers/admin/home_controller_test.rb"
+			],
+			[
+				"style",
+				"app/assets/stylesheets/mobile_style.css.scss"
+			],
+			[
+				"mobilecss",
+				"app/assets/stylesheets/mobile_style.css.scss"
+			],
+			[
+				"sty",
+				"app/assets/stylesheets/styles.css.scss"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"view",
+				"app/views/mobile/home/view_care_client_services.html.erb"
+			],
+			[
+				"admin",
+				"app/controllers/admin/homes_controller.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"h",
+				"app/controllers/homes_controller.rb"
+			],
+			[
+				"inde",
+				"app/views/home/index.html.erb"
+			],
+			[
+				"abou",
+				"app/views/home/about_us.html.erb"
+			],
+			[
+				"roue",
+				"config/routes.rb"
+			],
+			[
+				"ongo",
+				"app/views/home/ongoing.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"caregive",
+				"app/models/care_giver_company.rb"
+			],
+			[
+				"caregivecom",
+				"spec/factories/care_giver_company.rb"
+			],
+			[
+				"pp/models/care_giver_company.rb",
+				"app/models/care_giver_company.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"homes/inde",
+				"app/views/homes/index.html.erb"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"dep",
+				"config/deploy.rb"
+			],
+			[
+				"styl",
+				"app/assets/stylesheets/styles.css.scss"
+			],
+			[
+				"deplo",
+				"config/deploy.rb"
+			],
+			[
+				"lay/a",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"resu",
+				"rspec/app/views/home/results.html.erb"
+			],
+			[
+				"on",
+				"rspec/app/views/home/ongoing.html.erb"
+			],
+			[
+				"homecon",
+				"rspec/app/controllers/home_controller.rb"
+			],
+			[
+				"abo",
+				"template/about-us.html"
+			],
+			[
+				"ima",
+				"rspec/app/uploaders/image_uploader.rb"
+			],
+			[
+				"config/database.yml",
+				"rspec/config/database.yml"
+			],
+			[
+				"profile",
+				"rspec/app/views/home/profile.html.erb"
+			],
+			[
+				"applica",
+				"rspec/config/application.rb"
+			],
+			[
+				"app/controllers/home_controller.rb",
+				"rspec/app/controllers/home_controller.rb"
+			],
+			[
+				"home/logi",
+				"rspec/app/views/home/login.html.erb"
+			],
+			[
+				"home",
+				"rspec/app/views/home/index.html.erb"
+			],
+			[
+				"homeinde",
+				"rspec/app/views/home/index.html.erb"
+			],
+			[
+				"mobile_sty",
+				"app/assets/stylesheets/mobile_style.css.scss"
+			],
+			[
+				"_services",
+				"app/views/shared/_services.html.erb"
+			],
+			[
+				"viewmy",
+				"app/views/pcg/home/view_my_services.html.erb"
+			],
+			[
+				"editmy",
+				"app/views/pcg/home/edit_my_services.html.erb"
+			],
+			[
+				"pcghelp",
+				"app/helpers/pcg/home_helper.rb"
+			],
+			[
+				"view_my",
+				"app/views/pcg/home/view_my_services.html.erb"
+			],
+			[
+				"mobilehome",
+				"app/controllers/mobile/home_controller.rb"
+			],
+			[
+				"cale/care/inde",
+				"app/views/calendar/care_client/index.html.erb"
+			],
+			[
+				"carecli",
+				"app/policies/care_client_policy.rb"
+			],
+			[
+				"fcghome",
+				"app/controllers/fcg/home_controller.rb"
+			],
+			[
+				"applicacon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"pcghome",
+				"app/controllers/pcg/home_controller.rb"
+			],
+			[
+				"caregivecompol",
+				"app/policies/care_giver_company_policy.rb"
+			],
+			[
+				"pcgahomecon",
+				"app/controllers/pcga/home_controller.rb"
+			],
+			[
+				"careclienpoli",
+				"app/policies/care_client_policy.rb"
+			],
+			[
+				"carepol",
+				"app/policies/care_giver_policy.rb"
+			],
+			[
+				"pcg/homecontroller",
+				"app/controllers/pcg/home_controller.rb"
+			],
+			[
+				"cale/care",
+				"app/controllers/calendar/care_giver_controller.rb"
+			],
+			[
+				"caregivercocon",
+				"app/controllers/care_giver_companies_controller.rb"
+			],
+			[
+				"caregiver",
+				"app/controllers/calendar/care_giver_controller.rb"
+			],
+			[
+				"caregivecon",
+				"app/controllers/calendar/care_giver_controller.rb"
+			],
+			[
+				"caregivepo",
+				"app/policies/care_giver_policy.rb"
+			],
+			[
+				"caregivercomcon",
+				"app/controllers/care_giver_companies_controller.rb"
+			],
+			[
+				"caregivercont",
+				"app/controllers/calendar/care_giver_controller.rb"
+			],
+			[
+				"loc",
+				"app/views/alerts_mailer/location_missing.html.erb"
+			],
+			[
+				"location",
+				"app/views/alerts_mailer/location_missing.html.erb"
+			],
+			[
+				"alertea",
+				"app/views/alerts_mailer/alert_email.html.erb"
+			],
+			[
+				"applicahel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"send",
+				"app/views/auto_assign_summary_mailer/send_summary.html.erb"
+			],
+			[
+				"app/models/care_plan_setting.rb",
+				"app/models/care_plan_setting.rb"
+			],
+			[
+				"careclie",
+				"app/models/care_client.rb"
+			],
+			[
+				"care_clients_service",
+				"app/models/care_clients_service.rb"
+			],
+			[
+				"care_clients_giver",
+				"app/models/care_clients_giver.rb"
+			],
+			[
+				"application_headers",
+				"app/views/shared/_application_headers.html.erb"
+			],
+			[
+				"admincon",
+				"app/controllers/admin/home_controller.rb"
+			],
+			[
+				"adm/sett",
+				"app/views/admin/home/settings.html.erb"
+			],
+			[
+				"carepl",
+				"app/views/pcga/home/care_plan_setting.html.erb"
+			],
+			[
+				"auma",
+				"app/mailers/auto_assign_summary_mailer.rb"
+			],
+			[
+				"summ",
+				"app/views/auto_assign_summary_mailer/send_summary.html.erb"
+			],
+			[
+				"pcga_top_navigation",
+				"app/views/shared/_pcga_top_navigation.html.erb"
+			],
+			[
+				"pcgahomeind",
+				"app/views/pcga/home/index.html.erb"
+			],
+			[
+				"getmo",
+				"app/mailers/get_more_info.rb"
+			],
+			[
+				"info",
+				"app/views/get_more_info/sent_info.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/sublime projects/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 485.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
